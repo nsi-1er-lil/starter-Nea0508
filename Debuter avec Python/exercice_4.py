@@ -6,5 +6,5 @@ b = A>5
 
 # Question 7:
 def perimetre(x):
-    4*c
+    return 4*c
 

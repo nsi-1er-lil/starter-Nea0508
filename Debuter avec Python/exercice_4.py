@@ -7,3 +7,4 @@ b == aire>5
 # Question 7:
 def perimetre(x):
     4*cote_carre
+

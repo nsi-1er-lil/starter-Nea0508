@@ -1,10 +1,10 @@
 # Question 6:
-cote_carre = 5
-perimetre = 4*cote_carre
-aire = 4^2
-b == aire>5
+c = 5
+P = 4*c
+A = 4^2
+b = A>5
 
 # Question 7:
 def perimetre(x):
-    4*cote_carre
+    4*c
 

@@ -7,4 +7,4 @@
 def IMC(m, t):
     return m//t**2
 
-print(IMC(50, 1.60))
+print(IMC(65, 1.75))

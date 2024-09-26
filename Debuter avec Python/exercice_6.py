@@ -3,7 +3,7 @@
 # volume = (aire)*(h)
 
 # Question 2
-# Les variables utilisees sont h (hauteur) et r (rayon de la base)
+# Les variables utilisees sont h (hauteur) et r (rayon de la base) et il s'agit du type float
 
 # Question 3
 def aire(r):
